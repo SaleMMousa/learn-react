@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+button {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.30);
+    width:  45%;
+    margin: 25px auto;
+    outline: none;
+    padding: 20px;
+    border: none;
+    color: white;
+    background: #20df7f;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Lexend Deca';
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800&display=swap');
+
+.sign-in {
+    width: 50%;
+    margin: 120px auto;
+    padding: 0;
+    text-align: center;
+    color: white;
+    font-family: 'Lexend Deca';
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 80px;
+}p {
+    font-size: 20px;
+}

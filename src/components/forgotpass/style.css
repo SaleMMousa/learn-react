@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+
+.forgot {
+    width:  45%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}.forgot label{
+    color: white;
+
+}.forgot a{
+    color: #1fdd7e;
+}
+.forgot input {
+    width: 18px;
+    height: 16px;
+    accent-color: #1fdd7e;
+}
